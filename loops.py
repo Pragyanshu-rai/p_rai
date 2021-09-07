@@ -1,5 +1,6 @@
-x = int(input('enter the first value'))
-y = int(input('enter the second value'))
+x = int(input('enter the first value\n:>'))
+y = int(input('enter the second value\n:>'))
+
 if(x>y):
    while(x!=0):
        print(x)
